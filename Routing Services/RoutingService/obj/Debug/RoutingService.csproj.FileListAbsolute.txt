@@ -1,0 +1,6 @@
+c:\users\test\documents\visual studio 2015\Projects\Routing Services\RoutingService\bin\Debug\RoutingService.dll.config
+c:\users\test\documents\visual studio 2015\Projects\Routing Services\RoutingService\bin\Debug\RoutingService.dll
+c:\users\test\documents\visual studio 2015\Projects\Routing Services\RoutingService\bin\Debug\RoutingService.pdb
+c:\users\test\documents\visual studio 2015\Projects\Routing Services\RoutingService\obj\Debug\RoutingService.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2015\Projects\Routing Services\RoutingService\obj\Debug\RoutingService.dll
+c:\users\test\documents\visual studio 2015\Projects\Routing Services\RoutingService\obj\Debug\RoutingService.pdb
